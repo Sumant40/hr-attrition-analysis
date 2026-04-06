@@ -41,10 +41,10 @@ hr-attrition-analysis/
 ├── data/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 │
-├── notebooks/
-│   ├── 01_EDA.ipynb                  # Exploratory data analysis
-│   ├── 02_Preprocessing.ipynb        # Cleaning and feature engineering
-│   └── 03_Modelling.ipynb            # Model training and evaluation
+├── EDA.ipynb                        # Exploratory data analysis
+├── preprocessing.ipynb              # Cleaning and feature engineering
+├── modelling.ipynb                  # Model training and evaluation
+├── run_pipeline.py                  # Execute notebooks in sequence
 │
 ├── outputs/
 │   ├── figures/
@@ -164,7 +164,12 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ### 4. Run notebooks in order
 ```bash
 jupyter notebook
-# Open notebooks in order: 01 → 02 → 03
+# Open notebooks in order: EDA → preprocessing → modelling
+```
+
+### 5. Run full pipeline (optional)
+```bash
+python run_pipeline.py
 ```
 
 ---
