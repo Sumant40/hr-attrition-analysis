@@ -135,10 +135,10 @@ Raw Data → EDA → Preprocessing → Feature Engineering → Model Training
 ![Feature Importance](outputs/figures/feature_importance.png)
 
 ### Model ROC curve
-![ROC Curve](outputs/figures/roc_curve.png)
+![ROC Curve](outputs/figures/roc_curves_comparison.png)
 
 ### Confusion matrix (XGBoost)
-![Confusion Matrix](outputs/figures/confusion_matrix.png)
+![Confusion Matrix](outputs/figures/confusion_matrices_comparison.png)
 
 ---
 
