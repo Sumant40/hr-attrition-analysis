@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+outputs/.pipeline_jupyter/
+outputs/jupyter_runtime/

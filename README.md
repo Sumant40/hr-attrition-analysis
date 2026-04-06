@@ -88,15 +88,13 @@ Raw Data → EDA → Preprocessing → Feature Engineering → Model Training
 
 ## Results
 
-| Model                | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|----------------------|----------|-----------|--------|----------|---------|
-| Logistic Regression  | 85.4%    | 0.61      | 0.52   | 0.56     | 0.81    |
-| Random Forest        | 87.1%    | 0.68      | 0.58   | 0.63     | 0.84    |
-| XGBoost              | 88.6%    | 0.72      | 0.64   | 0.68     | 0.87    |
+| model               | accuracy | precision | recall | f1_score | roc_auc |
+|---------------------|----------|-----------|--------|----------|---------|
+| Logistic Regression | 0.881    | 0.7727    | 0.3617 | 0.4928   | 0.8045  |
+| Random Forest       | 0.8367   | 0.4615    | 0.1277 | 0.2      | 0.803   |
+| XGBoost             | 0.8673   | 0.7857    | 0.234  | 0.3607   | 0.789   |
 
-> XGBoost was selected as the final model based on highest ROC-AUC and F1-score.
-> Recall was prioritised over precision since missing an at-risk employee
-> is more costly than a false alarm.
+> Random Forest was selected as the final model based on not much difference ROC-AUC and F1-score.
 
 ---
 
