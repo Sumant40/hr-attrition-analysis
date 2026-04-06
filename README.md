@@ -202,8 +202,8 @@ jupyter==1.0.0
 
 **Sumant Jadiyappagoudar**
 Bioengineering graduate | Data Science & Computational Biology
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) |
-[GitHub](https://github.com/YOUR_USERNAME) |
+[LinkedIn](https://www.linkedin.com/in/sumant-jadiyappagoudar/) |
+[GitHub](https://github.com/Sumant40) |
 [Email](mailto:sumantjadiyappagoudar@gmail.com)
 
 ---
