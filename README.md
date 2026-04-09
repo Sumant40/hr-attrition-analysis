@@ -209,4 +209,4 @@ Bioengineering graduate | Data Science & Computational Biology
 ---
 
 *Part of my data science portfolio.
-Other projects: [SQL + Dashboard](#) | [A/B Testing](#) | [Pharma Analytics](#) | [NLP Sentiment Analysis](#)*
+Other projects: [SQL + Dashboard](https://github.com/Sumant40/SQL-PowerBI-Dashboard.git) | [A/B Testing](#) | [Pharma Analytics](#) | [NLP Sentiment Analysis](#)*
